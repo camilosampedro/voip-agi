@@ -1,0 +1,25 @@
+{
+  "name": "voip-agi",
+  "version": "0.1.0",
+  "description": "Voz IP AGI with Yandex",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "ding-dong": "^0.1.5",
+    "yandex-speech": "^0.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilosampedro/voip-agi.git"
+  },
+  "author": "Camilo Sampedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilosampedro/voip-agi/issues"
+  },
+  "homepage": "https://github.com/camilosampedro/voip-agi#readme"
+}
